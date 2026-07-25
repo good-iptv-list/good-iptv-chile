@@ -1,0 +1,134 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ChileVision.cl@SD",ChileVision
+http://45.162.193.35/CHILEVISION/index.m3u8
+
+#EXTINF:-1 tvg-id="TVN.cl@SD",TVN
+http://45.162.193.35/TVN/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal13.cl@SD",Canal 13
+https://redirector.dps.live/hls/13intav/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mega.cl@SD",Mega
+http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="LaRed.cl@SD",La Red
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPlus.cl@SD",TV+
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecanal.cl@SD",Telecanal
+https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="TVChile.cl@SD",TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional",Disney Channel
+http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South",Disney Junior
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD",DreamWorks Channel
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica",BabyTV
+http://179.60.51.134:8888/BABY-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="ETCTV.cl@SD",ETC TV
+http://181.119.93.83:8000/play/a217/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon
+http://138.186.23.7:8082/NICK/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional",Nick Jr.
+http://138.186.23.7:8082/NICKJR/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.us@Panregional", Star Channel
+http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.co@PanregionalHD",Cinecanal
+http://138.186.23.7:8082/CINECANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.cl@SD",FX
+http://138.121.15.230:9002/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.us@SD",Cinemax
+http://179.60.51.134:8888/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="Axn.us@Panregional",AXN
+http://177.234.249.178:8888/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id="AE.us@Panregional",A&E
+http://138.186.23.7:8082/AE/index.m3u8
+
+#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden
+http://177.234.249.135:8888/Golden/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEdge.mx@SD",Golden Edge
+http://177.234.249.135:8888/GoldenEdge/index.m3u8
+
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD",AMC
+http://177.234.249.178:8888/AMC/index.m3u8
+
+#EXTINF:-1 tvg-id="CineLatino.mx@SD",CineLatino
+http://45.162.193.35/CINELATINO_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula
+http://181.119.93.83:8000/play/a1jw/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.us@PanregionalHD",Comedy Central
+http://138.186.23.7:8082/COMEDYCENTRAL/index.m3u8
+
+#EXTINF:-1 tvg-id="ELatinAmerica.us@South",E!
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional",MTV
+http://179.60.51.134:8888/MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="TelehitMusica.mx@SD",Telehit Musica
+http://190.61.55.34:2401/play/a06t/index.m3u8
+
+#EXTINF:-1 tvg-id="Teleritmo.mx@SD",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-id="History.us@Panregional",History
+http://138.186.23.7:8082/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="History2.us@Panregional",History 2
+http://177.234.249.135:8888/HISTORY2/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.us@SD",National Geographic
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmArts.us@Panregional",Film & Arts
+http://200.91.32.158:8080/filmarts/index.m3u8
+
+#EXTINF:-1 tvg-id="Hgtv.us@Panregional",HGTV
+http://179.60.51.134:8888/HGTV/index.m3u8
+
+#EXTINF:-1 tvg-id="DW.de@Espanol",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional",El Gourmet
+http://177.234.249.178:8888/EL-GOURMET/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.us@Panregional",Food Network
+http://179.60.51.134:8888/FOOD/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNEnespañol.us@SD",CNN
+http://181.78.79.131:8000/play/a0p3
+
+#EXTINF:-1 tvg-id="",Meganoticias
+#EXTVLCOPT:http-referrer=https://www.meganoticias.cl/
+https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
+
+#EXTINF:-1 tvg-id="CHVNoticias.us@SD",CHV Noticias
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us@LatinAmerica",EWTN
+http://177.234.249.135:8888/EWTN/index.m3u8
+
+#EXTINF:-1 tvg-id="Enlace.cr@SD",Enlace
+http://179.60.51.134:8888/ENLACE/index.m3u8
